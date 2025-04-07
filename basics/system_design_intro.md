@@ -37,11 +37,11 @@ In simpler terms, it's **how you plan and organize the structure** of your softw
 2. 💥 **Performance:** Ensures your app is fast and responsive under load.
 3. 🔁 **Reliability:** Keeps services available even when things go wrong.
 4. 🛠️ **Maintainability:** Easier to update and debug.
-5. 🧹 **Team Collaboration:** Everyone understands the architecture and can build independently.
+5. 🧩 **Team Collaboration:** Everyone understands the architecture and can build independently.
 
 ---
 
-## 🌟 Summary
+## 🎯 Summary
 
 | Aspect              | High-Level Design (HLD)        | Low-Level Design (LLD)            |
 |---------------------|-------------------------------|------------------------------------|
@@ -52,7 +52,7 @@ In simpler terms, it's **how you plan and organize the structure** of your softw
 
 ---
 
-## 🌟💜 What's Next?
+## 🔜 What’s Next?
 
 In the following sections, we’ll cover:
 - Scalability
