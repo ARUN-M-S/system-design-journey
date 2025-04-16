@@ -7,6 +7,9 @@ Click on a topic to dive deep:
 ### [`What is IP (Internet Protocol) ?`](./topics/ip.md)
 
 ### [`OSI Model`](./topics/osi_Model.md)
+
+### [`TCP Vs UDp`](./topics/tcp_udp.md)
+
 ### Ports and DNS
 
 ### HTTP vs HTTPS
