@@ -4,7 +4,7 @@
 
 Click on a topic to dive deep:
 
-### [What is IP (Internet Protocol)]?(./topics/ip.md)
+### [`What is IP (Internet Protocol) ?`](./topics/ip.md)
 
 ### Ports and DNS
 
