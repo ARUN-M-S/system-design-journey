@@ -20,7 +20,7 @@ Click on a topic to dive deep:
 
 ### What happens when you type a URL?
 
-### Load Balancer
+### [`Load Balancer`](./topics/load_balancers.md)
 
 ### Reverse Proxy vs Forward Proxy
 
