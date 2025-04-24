@@ -10,6 +10,8 @@ Click on a topic to dive deep:
 
 ### [`TCP Vs UDp`](./topics/tcp_udp.md)
 
+### [`Clustering`](./topics/clustering.md)
+
 ### Ports and DNS
 
 ### HTTP vs HTTPS
