@@ -34,29 +34,12 @@ Local server memory (e.g., process-level cache)
 
 When the cache memory is full, we must decide which item to remove.
 
-Policy
+| Policy | Full Form               | Description                                         |
+|:------:|:------------------------|:----------------------------------------------------|
+| **LRU** | Least Recently Used      | Remove the item which was least recently accessed. |
+| **LFU** | Least Frequently Used    | Remove the item which was accessed the least number of times. |
+| **FIFO**| First In First Out       | Remove the oldest added item first.                |
 
-Full Form
-
-Description
-
-LRU
-
-Least Recently Used
-
-Remove the item which was least recently accessed.
-
-LFU
-
-Least Frequently Used
-
-Remove the item which was accessed the least number of times.
-
-FIFO
-
-First In First Out
-
-Remove the oldest added item first.
 
 Quick Example
 
