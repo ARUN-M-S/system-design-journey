@@ -12,6 +12,8 @@ Click on a topic to dive deep:
 
 ### [`Clustering`](./topics/clustering.md)
 
+### [`Proxy`](./topics/proxy.md)
+
 ### Ports and DNS
 
 ### HTTP vs HTTPS
@@ -26,7 +28,7 @@ Click on a topic to dive deep:
 
 ### Reverse Proxy vs Forward Proxy
 
-### CDN (Content Delivery Network)
+### [`CDN (Content Delivery Network)`](./topics/cdn.md)
 
 ### DNS Resolution
 
